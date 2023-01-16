@@ -3,8 +3,8 @@ Testowe
 
 # Drugi punkt
 
-zapomniałem
+zapomniałem skonstruowac styl strony
 
 # Trzeci
 
-tudu
+odo - uzupełnij braki w danych
